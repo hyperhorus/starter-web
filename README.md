@@ -9,6 +9,5 @@ Para ver como funciona Git y GotHub juntos
 Sample website with plenty of files for demos
 
 ## Deploy
-ore ver como se deploya en esta cosa
+
 ## How to Contribute
-Para contribuir puies ahi le buscan
