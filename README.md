@@ -11,9 +11,7 @@ Sample website with plenty of files for demos
 ## Deploy
 Agregando texto aqui
 ## How to Contribute
-y mas text aca
-
-Otras lineas mas de texto para ver como furuncia
+Please fork this repository and then issue pull request for review
 
 ###
 2014 Git.Training
