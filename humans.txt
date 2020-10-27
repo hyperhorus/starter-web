@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Guillermo Llano --  hyperhorus@gmail.com  @Eladio47
 
 # THANKS
 
