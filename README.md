@@ -14,3 +14,6 @@ Agregando texto aqui
 y mas text aca
 
 Otras lineas mas de texto para ver como furuncia
+
+###
+2014 Git.Training
